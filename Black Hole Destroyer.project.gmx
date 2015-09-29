@@ -54,6 +54,7 @@
       <sprite>sprites\Red_Ball_Sprite</sprite>
       <sprite>sprites\Green_Ball_Sprite</sprite>
       <sprite>sprites\Blue_Ball_Sprite</sprite>
+      <sprite>sprites\Generic_Black_Hole_Eater_Sprite</sprite>
     </sprites>
     <sprites name="Walls">
       <sprite>sprites\Generic_Wall_Sprite</sprite>
